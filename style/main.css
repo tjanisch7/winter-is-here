@@ -1,9 +1,9 @@
 .navbar-header .navbar-brand {
-	color: #ACB4DA;
+	color: #c4c6ce;
 }
 
 #bs-example-navbar-collapse-1 li a {
-	color: #ACB4DA;
+	color: #c4c6ce;
 }
 
 
@@ -12,12 +12,14 @@
 }
 
 .headline h1 {
-	color: #ACB4DA;
+	color: #181b29;
+	font-family: 'Aclonica', sans-serif;
 	font-size: 72px;
 }
 
 .headline h2 {
-	color: #ACB4DA;
+	color: #c4c6ce;
+	font-family: 'Aclonica', sans-serif;
 	font-size: 72px;
 }
 
