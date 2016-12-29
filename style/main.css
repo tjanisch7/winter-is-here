@@ -1,0 +1,26 @@
+.navbar-header .navbar-brand {
+	color: #ACB4DA;
+}
+
+#bs-example-navbar-collapse-1 li a {
+	color: #ACB4DA;
+}
+
+
+.header-image {
+	background-image: url(http://nerdist.com/wp-content/uploads/2014/07/ned-stark-970x545.jpg);
+}
+
+.headline h1 {
+	color: #ACB4DA;
+	font-size: 72px;
+}
+
+.headline h2 {
+	color: #ACB4DA;
+	font-size: 72px;
+}
+
+#body {
+	background-color: #f9f9f9;
+}
